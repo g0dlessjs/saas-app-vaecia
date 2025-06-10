@@ -12,6 +12,7 @@ const Navbar = () => {
       </Link>
       <div className="flex items-center gap-8">
         <NavItems />
+        <h1>test</h1>
       </div>
     </nav>
   );
